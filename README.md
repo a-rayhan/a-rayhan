@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Abu Rayhan]([https://i.postimg.cc/Y24xGvW8/github.png](https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/git-banner.png))]()
+
 <!--
 **a-rayhan/a-rayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
