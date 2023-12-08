@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-<img width={60} src="https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/html.png"/>
+<img width={60px} src="https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/html.png"/>
 <img src=""/>
 <img src=""/>
 <img src=""/>
