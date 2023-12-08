@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Abu Rayhan]([https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/git-banner.png])()
+[![Abu Rayhan](https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/git-banner.png)](https://www.jsmastery.pro)
 
 <!--
 **a-rayhan/a-rayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
