@@ -3,8 +3,10 @@
 [![Abu Rayhan](https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/git-banner.png)]()
 
 # Overview
-
+<br />
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a-rayhan&theme=dark)](https://git.io/streak-stats)
+</p>
 
 <!--
 **a-rayhan/a-rayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
