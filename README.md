@@ -5,7 +5,7 @@
 # Overview
 <br />
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a-rayhan&theme=dark)](https://git.io/streak-stats)
+  <img width="60%" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a-rayhan&theme=dark" alt="GitHub Streak" />
 </p>
 
 <!--
