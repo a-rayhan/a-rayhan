@@ -10,11 +10,11 @@ Now I'm actively seeking opportunities to kickstart my career as a junior develo
 
 # Overview
 <br />
+<p align="center">Here is my total contributions, current streak and my longest streak stats.</p
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=a-rayhan&theme=dark" alt="GitHub Streak" />
 </p>
 
-Here is my total contributions, current streak and my longest streak stats.
 <br />
 
 # My STack
