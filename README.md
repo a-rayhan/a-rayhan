@@ -20,8 +20,7 @@ I specialize in creating responsive and user-friendly web interfaces using React
 
 <br>
 <p align="center">Here are a few technologies I’ve been learning and working with recently:</p>
-<br>
-<p align="center">JavaScript (ES6+), React, TypeScript (Basic), Node.js (Basic).</p>
+<p align="center">JavaScript (ES6+), React, Node.js (Basic).</p>
 <br>
 <p align="center">
 <img width="60px" src="https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/html.png"/>
