@@ -6,7 +6,6 @@ Hello there! 👋 I'm Abu Rayhan, and I'm passionate about web development, an a
 
 I specialize in creating responsive and user-friendly web interfaces using React js. From designing elegant user interfaces to implementing complex functionality, I thrive on turning ideas into interactive web applications.
 
-Now I'm actively seeking opportunities to kickstart my career as a junior developer in a collaborative and innovative environment. I'm eager to learn, grow, and contribute to impactful projects.
 
 # Overview
 <br />
