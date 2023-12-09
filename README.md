@@ -16,10 +16,11 @@ I specialize in creating responsive and user-friendly web interfaces using React
 
 <br />
 
-# My STack
+# My Stack
 
 <br>
-<p align="center">Here are a few technologies I’ve been learning and working with recently: JavaScript (ES6+), React, Node.js (Basic).</p>
+<p align="center">Here are a few technologies I’ve been learning and working with recently: </p>
+<p align="center">JavaScript (ES6+), React, Node.js (Basic), MongoDB, DaisyUI, Material UI, Firebase authentication, JWT token</p>
 <br>
 <p align="center">
 <img width="60px" src="https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/html.png"/>
