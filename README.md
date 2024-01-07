@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Abu Rayhan](https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/git-banner.png)]()
+[![Abu Rayhan](https://raw.githubusercontent.com/a-rayhan/a-rayhan/main/Github-Banner.jpg)]()
 
 Hello there! 👋 I'm Abu Rayhan, and I'm passionate about web development, an aspiring MERN Stack Developer with a strong foundation in front-end development, particularly in React js.
 
